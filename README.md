@@ -8,7 +8,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/UI-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss)](https://tailwindcss.com)
 [![Telugu & English](https://img.shields.io/badge/Language-Telugu%20%7C%20English-green)]()
 
-🌐 **Live Deployment**: **[https://klusujith.github.io/KisanCare/](https://klusujith.github.io/KisanCare/)**
+🌐 **Live Deployment**: **[https://klusujith.github.io/KisanCare/](https://2300033672.github.io/Smart-Crop-Farmers/)**
 
 ---
 
